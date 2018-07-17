@@ -10,13 +10,13 @@ import Foundation
 
 public extension Bundle {
     
-    /// returns version string
+    /// Returns version string
     var versionString: String {
         return "\(Bundle.main.infoDictionary?["CFBundleShortVersionString"] ?? "")"
         
     }
     
-    /// returns build string
+    /// Returns build string
     var buildString: String {
         return "\(Bundle.main.infoDictionary?["CFBundleVersion"] ?? "")"
     }
