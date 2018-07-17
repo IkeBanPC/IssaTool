@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.authors       = {'IkeBan' => 'https://github.com/IkeBanPC'}
   s.platform      = :ios, "8.0"
   s.source        = { :git => "https://github.com/IkeBanPC/IssaTool.git", :tag => "0.0.1" }
-  s.source_files  = "Source/*.swift"
+  s.source_files  = "Source/**/*.swift"
   s.swift_version = "4.0"
   s.requires_arc  = true
 
