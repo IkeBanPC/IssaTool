@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.source        = { :git => "https://github.com/IkeBanPC/IssaTool.git", :tag => "0.0.3" }
   s.source_files  = "Source/**/*.swift"
   s.swift_version = "4.0"
+  s.ios.frameworks = 'Foundation', 'UIKit'
   s.requires_arc  = true
 
 end

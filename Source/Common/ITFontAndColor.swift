@@ -6,8 +6,6 @@
 //  Copyright © 2018年 IsaacPan. All rights reserved.
 //
 
-import Foundation
-
 /// Define an easy way to create an UIFont instance of default.
 ///
 /// - Parameter size: font size

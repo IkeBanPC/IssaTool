@@ -6,8 +6,6 @@
 //  Copyright © 2018年 IsaacPan. All rights reserved.
 //
 
-import Foundation
-
 /// A center to store values and datas.
 public class ITValueCenter {
     static let shared = ITValueCenter()

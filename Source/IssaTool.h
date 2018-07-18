@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import <Foundation/Foundation.h>
 //! Project version number for IssaTool.
 FOUNDATION_EXPORT double IssaToolVersionNumber;
 

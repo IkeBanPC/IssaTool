@@ -11,6 +11,7 @@
 		6A22F60820FD89610021C7AD /* IssaToolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A22F60720FD89610021C7AD /* IssaToolTests.swift */; };
 		6A22F60A20FD89610021C7AD /* IssaTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A22F5FC20FD89600021C7AD /* IssaTool.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A346C4C20FDCCD9009F3E3B /* ITValueCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A346C4B20FDCCD9009F3E3B /* ITValueCenter.swift */; };
+		6A54AC3720FEDB0B00A000F8 /* String+ITExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A54AC3620FEDB0B00A000F8 /* String+ITExtensions.swift */; };
 		6A6551C520FD89FE00503FF0 /* ITCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6551C420FD89FE00503FF0 /* ITCommon.swift */; };
 		6A6551C820FD8A8C00503FF0 /* UIView+ITExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6551C720FD8A8C00503FF0 /* UIView+ITExtensions.swift */; };
 		6A6551CA20FD8B4300503FF0 /* Bundle+ITExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6551C920FD8B4300503FF0 /* Bundle+ITExtensions.swift */; };
@@ -35,6 +36,7 @@
 		6A22F60720FD89610021C7AD /* IssaToolTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IssaToolTests.swift; sourceTree = "<group>"; };
 		6A22F60920FD89610021C7AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A346C4B20FDCCD9009F3E3B /* ITValueCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITValueCenter.swift; sourceTree = "<group>"; };
+		6A54AC3620FEDB0B00A000F8 /* String+ITExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+ITExtensions.swift"; sourceTree = "<group>"; };
 		6A6551C420FD89FE00503FF0 /* ITCommon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITCommon.swift; sourceTree = "<group>"; };
 		6A6551C720FD8A8C00503FF0 /* UIView+ITExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+ITExtensions.swift"; sourceTree = "<group>"; };
 		6A6551C920FD8B4300503FF0 /* Bundle+ITExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+ITExtensions.swift"; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			children = (
 				6A6551C720FD8A8C00503FF0 /* UIView+ITExtensions.swift */,
 				6A6551C920FD8B4300503FF0 /* Bundle+ITExtensions.swift */,
+				6A54AC3620FEDB0B00A000F8 /* String+ITExtensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				6A346C4C20FDCCD9009F3E3B /* ITValueCenter.swift in Sources */,
 				6A6551CA20FD8B4300503FF0 /* Bundle+ITExtensions.swift in Sources */,
 				6A6551CC20FD8B7500503FF0 /* ITFontAndColor.swift in Sources */,
+				6A54AC3720FEDB0B00A000F8 /* String+ITExtensions.swift in Sources */,
 				6A6551C520FD89FE00503FF0 /* ITCommon.swift in Sources */,
 				6A6551C820FD8A8C00503FF0 /* UIView+ITExtensions.swift in Sources */,
 			);

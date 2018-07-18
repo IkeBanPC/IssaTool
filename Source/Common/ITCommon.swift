@@ -6,8 +6,6 @@
 //  Copyright © 2018年 IsaacPan. All rights reserved.
 //
 
-import Foundation
-
 /// define a common handle of blocks.
 public typealias Handle = () -> ()
 
